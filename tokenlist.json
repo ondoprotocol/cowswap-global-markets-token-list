@@ -6,7 +6,7 @@
         "minor": 0,
         "patch": 1
     },
-    "logoURI": "https://cdn.ondo.finance/brand/logos/ondo-icon-white_160x160.png",
+    "logoURI": "https://cdn.ondo.finance/brand/logos/ondo-icon-black_160x160.png",
     "tokens": [
         {
             "chainId": 1,
