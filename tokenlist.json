@@ -1,10 +1,10 @@
 {
     "name": "Ondo Tokenized Stocks List",
-    "timestamp": "2025-07-30T16:43:34.087081Z",
+    "timestamp": "2025-08-14T16:19:34.000000Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     },
     "logoURI": "https://cdn.ondo.finance/brand/logos/ondo-icon-black_160x160.png",
     "tokens": [
@@ -34,14 +34,6 @@
         },
         {
             "chainId": 1,
-            "address": "0x1598f7d25d0b0e1261eAB9BD2AD7924291EB26bB",
-            "name": "Unilever (Ondo Tokenized)",
-            "symbol": "ULon",
-            "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/ulon_160x160.png"
-        },
-        {
-            "chainId": 1,
             "address": "0x0692481C369E2BDc728A69ae31b848343a4567Be",
             "name": "iShares Core S&P Total US Stock Market ETF (Ondo Tokenized)",
             "symbol": "ITOTon",
@@ -58,7 +50,7 @@
         },
         {
             "chainId": 1,
-            "address": " 0x71d24Baeb0A033ec5F90FF65C4210545AF378D97",
+            "address": "0x71d24Baeb0A033ec5F90FF65C4210545AF378D97",
             "name": "GameStop (Ondo Tokenized)",
             "symbol": "GMEon",
             "decimals": 18,
@@ -111,22 +103,6 @@
             "symbol": "EEMon",
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/eemon_160x160.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x85Fd8DfD987988EdE1777935d9d09c7ac7f09f0b",
-            "name": "Comcast (Ondo Tokenized)",
-            "symbol": "CMCSAon",
-            "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/cmcsaon_160x160.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xaF1382692F9927FD6a6C25ADd60285628a1879e5",
-            "name": "Sony (Ondo Tokenized)",
-            "symbol": "SONYon",
-            "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/sonyon_160x160.png"
         },
         {
             "chainId": 1,
@@ -415,14 +391,6 @@
             "symbol": "ORCLon",
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/orclon_160x160.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xb7CBA7593baaFffc96F9BBc86e578026369DEc55",
-            "name": "Morgan Stanley (Ondo Tokenized)",
-            "symbol": "MSon",
-            "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/mson_160x160.png"
         },
         {
             "chainId": 1,
@@ -847,6 +815,38 @@
             "symbol": "SPYon",
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/spyon_160x160.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xfDb46864A7C476F0914c5E82CdED3364a9F56F8a",
+            "name": "SharpLink Gaming (Ondo Tokenized)",
+            "symbol": "SBETon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/sbeton_160x160.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x073e7a0669833d356fa88ca65cc6d454efaaa3c5",
+            "name": "Figma (Ondo Tokenized)",
+            "symbol": "FIGon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/figon_160x160.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xcDD60D15125bf3362b6838D2506b0Fa33bc1a515",
+            "name": "iShares Core MSCI Emerging Markets ETF (Ondo Tokenized)",
+            "symbol": "IEMGon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/iemgon_160x160.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xAcE8E719899F6E91831B18AE746C9A965c2119F1",
+            "name": "Ondo U.S. Dollar Token",
+            "symbol": "USDon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/usdon_160x160.png"
         }
     ]
 }
