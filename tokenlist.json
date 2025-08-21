@@ -1,10 +1,10 @@
 {
     "name": "Ondo Tokenized Stocks List",
-    "timestamp": "2025-08-14T16:19:34.000000Z",
+    "timestamp": "2025-08-21T17:31:39.301513Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 2
+        "patch": 3
     },
     "logoURI": "https://cdn.ondo.finance/brand/logos/ondo-icon-black_160x160.png",
     "tokens": [
@@ -791,14 +791,6 @@
             "symbol": "IAUon",
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/iauon_160x160.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xe5b26BA77E6a4d79a7c54a5296d81254269D9700",
-            "name": "Grindr (Ondo Tokenized)",
-            "symbol": "GRNDon",
-            "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/grndon_160x160.png"
         },
         {
             "chainId": 1,
