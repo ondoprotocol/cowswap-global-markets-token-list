@@ -1,12 +1,18 @@
 {
     "name": "Ondo Tokenized Stocks List",
-    "timestamp": "2025-08-21T17:31:39.301513Z",
+    "timestamp": "2025-08-26T17:31:39.301513Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 3
+        "patch": 4
     },
     "logoURI": "https://cdn.ondo.finance/brand/logos/ondo-icon-black_160x160.png",
+    "tags": {
+        "ondo": {
+            "name": "Tokenized by Ondo",
+            "description": "Asset officially issued by Ondo"
+        }
+    },
     "tokens": [
         {
             "chainId": 1,
