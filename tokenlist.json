@@ -2,9 +2,9 @@
     "name": "Ondo Tokenized Stocks List",
     "timestamp": "2025-08-26T17:31:39.301513Z",
     "version": {
-        "major": 0,
+        "major": 1,
         "minor": 0,
-        "patch": 4
+        "patch": 0
     },
     "logoURI": "https://cdn.ondo.finance/brand/logos/ondo-icon-black_160x160.png",
     "tags": {
@@ -20,7 +20,10 @@
             "name": "iShares Russell 2000 Value ETF (Ondo Tokenized)",
             "symbol": "IWNon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/iwnon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/iwnon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -28,7 +31,10 @@
             "name": "D-Wave Quantum (Ondo Tokenized)",
             "symbol": "QBTSon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/qbtson_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/qbtson_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -36,7 +42,10 @@
             "name": "iShares TIPS Bond ETF (Ondo Tokenized)",
             "symbol": "TIPon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/tipon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/tipon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -44,7 +53,10 @@
             "name": "iShares Core S&P Total US Stock Market ETF (Ondo Tokenized)",
             "symbol": "ITOTon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/itoton_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/itoton_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -52,7 +64,10 @@
             "name": "iBoxx $ High Yield Corporate Bond ETF (Ondo Tokenized)",
             "symbol": "HYGon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/hygon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/hygon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -60,7 +75,10 @@
             "name": "GameStop (Ondo Tokenized)",
             "symbol": "GMEon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/gmeon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/gmeon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -68,7 +86,10 @@
             "name": "Petrobras (Ondo Tokenized)",
             "symbol": "PBRon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/pbron_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/pbron_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -76,7 +97,10 @@
             "name": "Equinix (Ondo Tokenized)",
             "symbol": "EQIXon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/eqixon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/eqixon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -84,7 +108,10 @@
             "name": "Riot Platforms (Ondo Tokenized)",
             "symbol": "RIOTon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/rioton_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/rioton_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -92,7 +119,10 @@
             "name": "MARA Holdings (Ondo Tokenized)",
             "symbol": "MARAon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/maraon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/maraon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -100,7 +130,10 @@
             "name": "Pfizer (Ondo Tokenized)",
             "symbol": "PFEon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/pfeon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/pfeon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -108,7 +141,10 @@
             "name": "iShares MSCI Emerging Markets ETF (Ondo Tokenized)",
             "symbol": "EEMon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/eemon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/eemon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -116,7 +152,10 @@
             "name": "PayPal (Ondo Tokenized)",
             "symbol": "PYPLon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/pyplon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/pyplon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -124,7 +163,10 @@
             "name": "Abbott (Ondo Tokenized)",
             "symbol": "ABTon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/abton_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/abton_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -132,7 +174,10 @@
             "name": "Hims & Hers Health (Ondo Tokenized)",
             "symbol": "HIMSon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/himson_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/himson_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -140,7 +185,10 @@
             "name": "Novo Nordisk (Ondo Tokenized)",
             "symbol": "NVOon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/nvoon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/nvoon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -148,7 +196,10 @@
             "name": "iShares MSCI EAFE ETF (Ondo Tokenized)",
             "symbol": "EFAon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/efaon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/efaon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -156,7 +207,10 @@
             "name": "Nike (Ondo Tokenized)",
             "symbol": "NKEon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/nkeon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/nkeon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -164,7 +218,10 @@
             "name": "Intel (Ondo Tokenized)",
             "symbol": "INTCon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/intcon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/intcon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -172,7 +229,10 @@
             "name": "iShares Core MSCI EAFE ETF (Ondo Tokenized)",
             "symbol": "IEFAon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/iefaon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/iefaon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -180,7 +240,10 @@
             "name": "Super Micro Computer (Ondo Tokenized)",
             "symbol": "SMCIon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/smcion_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/smcion_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -188,7 +251,10 @@
             "name": "Marvell Technology (Ondo Tokenized)",
             "symbol": "MRVLon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/mrvlon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/mrvlon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -196,7 +262,10 @@
             "name": "iShares Core US Aggregate Bond ETF (Ondo Tokenized)",
             "symbol": "AGGon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/aggon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/aggon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -204,7 +273,10 @@
             "name": "Uber (Ondo Tokenized)",
             "symbol": "UBERon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/uberon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/uberon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -212,7 +284,10 @@
             "name": "Qualcomm (Ondo Tokenized)",
             "symbol": "QCOMon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/qcomon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/qcomon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -220,7 +295,10 @@
             "name": "Starbucks (Ondo Tokenized)",
             "symbol": "SBUXon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/sbuxon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/sbuxon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -228,7 +306,10 @@
             "name": "Airbnb (Ondo Tokenized)",
             "symbol": "ABNBon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/abnbon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/abnbon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -236,7 +317,10 @@
             "name": "Cisco Systems (Ondo Tokenized)",
             "symbol": "CSCOon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/cscoon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/cscoon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -244,7 +328,10 @@
             "name": "Chipotle (Ondo Tokenized)",
             "symbol": "CMGon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/cmgon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/cmgon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -252,7 +339,10 @@
             "name": "Futu Holdings (Ondo Tokenized)",
             "symbol": "FUTUon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/futuon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/futuon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -260,7 +350,10 @@
             "name": "Coca-Cola (Ondo Tokenized)",
             "symbol": "KOon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/koon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/koon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -268,7 +361,10 @@
             "name": "iShares Russell 1000 Growth ETF (Ondo Tokenized)",
             "symbol": "IWFon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/iwfon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/iwfon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -276,7 +372,10 @@
             "name": "Linde plc (Ondo Tokenized)",
             "symbol": "LINon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/linon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/linon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -284,7 +383,10 @@
             "name": "Arm Holdings plc (Ondo Tokenized)",
             "symbol": "ARMon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/armon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/armon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -292,7 +394,10 @@
             "name": "JD.com (Ondo Tokenized)",
             "symbol": "JDon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/jdon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/jdon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -300,7 +405,10 @@
             "name": "Micron Technology (Ondo Tokenized)",
             "symbol": "MUon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/muon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/muon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -308,7 +416,10 @@
             "name": "Robinhood Markets (Ondo Tokenized)",
             "symbol": "HOODon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/hoodon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/hoodon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -316,7 +427,10 @@
             "name": "Walmart (Ondo Tokenized)",
             "symbol": "WMTon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/wmton_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/wmton_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -324,7 +438,10 @@
             "name": "Toyota (Ondo Tokenized)",
             "symbol": "TMon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/tmon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/tmon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -332,7 +449,10 @@
             "name": "Shopify (Ondo Tokenized)",
             "symbol": "SHOPon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/shopon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/shopon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -340,7 +460,10 @@
             "name": "Reddit (Ondo Tokenized)",
             "symbol": "RDDTon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/rddton_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/rddton_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -348,7 +471,10 @@
             "name": "Apollo Global Management (Ondo Tokenized)",
             "symbol": "APOon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/apoon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/apoon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -356,7 +482,10 @@
             "name": "Disney (Ondo Tokenized)",
             "symbol": "DISon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/dison_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/dison_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -364,7 +493,10 @@
             "name": "PepsiCo (Ondo Tokenized)",
             "symbol": "PEPon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/pepon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/pepon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -372,7 +504,10 @@
             "name": "AMD (Ondo Tokenized)",
             "symbol": "AMDon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/amdon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/amdon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -380,7 +515,10 @@
             "name": "Wells Fargo (Ondo Tokenized)",
             "symbol": "WFCon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/wfcon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/wfcon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -388,7 +526,10 @@
             "name": "Baidu (Ondo Tokenized)",
             "symbol": "BIDUon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/biduon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/biduon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -396,7 +537,10 @@
             "name": "Oracle (Ondo Tokenized)",
             "symbol": "ORCLon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/orclon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/orclon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -404,7 +548,10 @@
             "name": "Procter & Gamble (Ondo Tokenized)",
             "symbol": "PGon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/pgon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/pgon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -412,7 +559,10 @@
             "name": "Palantir Technologies (Ondo Tokenized)",
             "symbol": "PLTRon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/pltron_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/pltron_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -420,7 +570,10 @@
             "name": "Circle Internet Group (Ondo Tokenized)",
             "symbol": "CRCLon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/crclon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/crclon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -428,7 +581,10 @@
             "name": "S&P Global (Ondo Tokenized)",
             "symbol": "SPGIon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/spgion_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/spgion_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -436,7 +592,10 @@
             "name": "Chevron (Ondo Tokenized)",
             "symbol": "CVXon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/cvxon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/cvxon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -444,7 +603,10 @@
             "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized)",
             "symbol": "TSMon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/tsmon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/tsmon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -452,7 +614,10 @@
             "name": "Palo Alto Networks (Ondo Tokenized)",
             "symbol": "PANWon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/panwon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/panwon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -460,7 +625,10 @@
             "name": "Alibaba (Ondo Tokenized)",
             "symbol": "BABAon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/babaon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/babaon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -468,7 +636,10 @@
             "name": "Broadcom (Ondo Tokenized)",
             "symbol": "AVGOon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/avgoon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/avgoon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -476,7 +647,10 @@
             "name": "JPMorgan Chase (Ondo Tokenized)",
             "symbol": "JPMon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/jpmon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/jpmon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -484,7 +658,10 @@
             "name": "Salesforce (Ondo Tokenized)",
             "symbol": "CRMon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/crmon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/crmon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -492,7 +669,10 @@
             "name": "Amazon (Ondo Tokenized)",
             "symbol": "AMZNon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/amznon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/amznon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -500,7 +680,10 @@
             "name": "Snowflake (Ondo Tokenized)",
             "symbol": "SNOWon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/snowon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/snowon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -508,7 +691,10 @@
             "name": "Alphabet Class A (Ondo Tokenized)",
             "symbol": "GOOGLon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/googlon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/googlon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -516,7 +702,10 @@
             "name": "American Express (Ondo Tokenized)",
             "symbol": "AXPon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/axpon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/axpon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -524,7 +713,10 @@
             "name": "IBM (Ondo Tokenized)",
             "symbol": "IBMon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/ibmon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/ibmon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -532,7 +724,10 @@
             "name": "DoorDash (Ondo Tokenized)",
             "symbol": "DASHon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/dashon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/dashon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -540,7 +735,10 @@
             "name": "Accenture (Ondo Tokenized)",
             "symbol": "ACNon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/acnon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/acnon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -548,7 +746,10 @@
             "name": "iShares Core S&P MidCap ETF (Ondo Tokenized)",
             "symbol": "IJHon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/ijhon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/ijhon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -556,7 +757,10 @@
             "name": "Coinbase (Ondo Tokenized)",
             "symbol": "COINon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/coinon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/coinon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -564,7 +768,10 @@
             "name": "Boeing (Ondo Tokenized)",
             "symbol": "BAon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/baon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/baon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -572,7 +779,10 @@
             "name": "General Electric (Ondo Tokenized)",
             "symbol": "GEon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/geon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/geon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -580,7 +790,10 @@
             "name": "AppLovin (Ondo Tokenized)",
             "symbol": "APPon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/appon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/appon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -588,7 +801,10 @@
             "name": "Apple (Ondo Tokenized)",
             "symbol": "AAPLon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/aaplon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/aaplon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -596,7 +812,10 @@
             "name": "Mastercard (Ondo Tokenized)",
             "symbol": "MAon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/maon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/maon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -604,7 +823,10 @@
             "name": "Lockheed (Ondo Tokenized)",
             "symbol": "LMTon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/lmton_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/lmton_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -612,7 +834,10 @@
             "name": "Intuit (Ondo Tokenized)",
             "symbol": "INTUon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/intuon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/intuon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -620,7 +845,10 @@
             "name": "McDonald's (Ondo Tokenized)",
             "symbol": "MCDon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/mcdon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/mcdon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -628,7 +856,10 @@
             "name": "MicroStrategy (Ondo Tokenized)",
             "symbol": "MSTRon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/mstron_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/mstron_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -636,7 +867,10 @@
             "name": "Goldman Sachs (Ondo Tokenized)",
             "symbol": "GSon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/gson_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/gson_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -644,7 +878,10 @@
             "name": "Adobe (Ondo Tokenized)",
             "symbol": "ADBEon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/adbeon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/adbeon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -652,7 +889,10 @@
             "name": "NVIDIA (Ondo Tokenized)",
             "symbol": "NVDAon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/nvdaon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/nvdaon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -660,7 +900,10 @@
             "name": "UnitedHealth (Ondo Tokenized)",
             "symbol": "UNHon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/unhon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/unhon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -668,7 +911,10 @@
             "name": "Microsoft (Ondo Tokenized)",
             "symbol": "MSFTon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/msfton_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/msfton_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -676,7 +922,10 @@
             "name": "Visa (Ondo Tokenized)",
             "symbol": "Von",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/von_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/von_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -684,7 +933,10 @@
             "name": "Spotify (Ondo Tokenized)",
             "symbol": "SPOTon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/spoton_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/spoton_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -692,7 +944,10 @@
             "name": "Tesla (Ondo Tokenized)",
             "symbol": "TSLAon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/tslaon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/tslaon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -700,7 +955,10 @@
             "name": "Blackrock, Inc. (Ondo Tokenized)",
             "symbol": "BLKon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/blkon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/blkon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -708,7 +966,10 @@
             "name": "ASML Holding NV (Ondo Tokenized)",
             "symbol": "ASMLon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/asmlon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/asmlon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -716,7 +977,10 @@
             "name": "Eli Lilly (Ondo Tokenized)",
             "symbol": "LLYon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/llyon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/llyon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -724,7 +988,10 @@
             "name": "ServiceNow (Ondo Tokenized)",
             "symbol": "NOWon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/nowon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/nowon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -732,7 +999,10 @@
             "name": "Meta Platforms (Ondo Tokenized)",
             "symbol": "METAon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/metaon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/metaon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -740,7 +1010,10 @@
             "name": "iShares Russell 2000 ETF (Ondo Tokenized)",
             "symbol": "IWMon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/iwmon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/iwmon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -748,7 +1021,10 @@
             "name": "iShares 20+ Year Treasury Bond ETF (Ondo Tokenized)",
             "symbol": "TLTon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/tlton_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/tlton_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -756,7 +1032,10 @@
             "name": "Costco (Ondo Tokenized)",
             "symbol": "COSTon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/coston_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/coston_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -764,7 +1043,10 @@
             "name": "Netflix (Ondo Tokenized)",
             "symbol": "NFLXon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/nflxon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/nflxon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -772,7 +1054,10 @@
             "name": "iShares Core S&P 500 ETF (Ondo Tokenized)",
             "symbol": "IVVon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/ivvon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/ivvon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -780,7 +1065,10 @@
             "name": "iShares Silver Trust (Ondo Tokenized)",
             "symbol": "SLVon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/slvon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/slvon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -788,7 +1076,10 @@
             "name": "MercadoLibre (Ondo Tokenized)",
             "symbol": "MELIon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/melion_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/melion_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -796,7 +1087,10 @@
             "name": "iShares Gold Trust (Ondo Tokenized)",
             "symbol": "IAUon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/iauon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/iauon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -804,7 +1098,10 @@
             "name": "Invesco QQQ (Ondo Tokenized)",
             "symbol": "QQQon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/qqqon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/qqqon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -812,7 +1109,10 @@
             "name": "SPDR S&P 500 ETF (Ondo Tokenized)",
             "symbol": "SPYon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/spyon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/spyon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -820,7 +1120,10 @@
             "name": "SharpLink Gaming (Ondo Tokenized)",
             "symbol": "SBETon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/sbeton_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/sbeton_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -828,7 +1131,10 @@
             "name": "Figma (Ondo Tokenized)",
             "symbol": "FIGon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/figon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/figon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -836,7 +1142,10 @@
             "name": "iShares Core MSCI Emerging Markets ETF (Ondo Tokenized)",
             "symbol": "IEMGon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/iemgon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/iemgon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         },
         {
             "chainId": 1,
@@ -844,7 +1153,10 @@
             "name": "Ondo U.S. Dollar Token",
             "symbol": "USDon",
             "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/usdon_160x160.png"
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/usdon_160x160.png",
+            "tags": [
+                "Tokenized by Ondo"
+            ]
         }
     ]
 }
