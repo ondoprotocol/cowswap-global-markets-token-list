@@ -4,7 +4,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
     "logoURI": "https://cdn.ondo.finance/brand/logos/ondo-icon-black_160x160.png",
     "tags": {
@@ -22,7 +22,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/iwnon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -33,7 +33,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/qbtson_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -44,7 +44,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/tipon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -55,7 +55,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/itoton_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -66,7 +66,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/hygon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -77,7 +77,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/gmeon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -88,7 +88,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/pbron_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -99,7 +99,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/eqixon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -110,7 +110,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/rioton_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -121,7 +121,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/maraon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -132,7 +132,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/pfeon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -143,7 +143,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/eemon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -154,7 +154,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/pyplon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -165,7 +165,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/abton_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -176,7 +176,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/himson_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -187,7 +187,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/nvoon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -198,7 +198,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/efaon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -209,7 +209,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/nkeon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -220,7 +220,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/intcon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -231,7 +231,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/iefaon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -242,7 +242,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/smcion_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -253,7 +253,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/mrvlon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -264,7 +264,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/aggon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -275,7 +275,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/uberon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -286,7 +286,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/qcomon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -297,7 +297,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/sbuxon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -308,7 +308,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/abnbon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -319,7 +319,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/cscoon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -330,7 +330,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/cmgon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -341,7 +341,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/futuon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -352,7 +352,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/koon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -363,7 +363,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/iwfon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -374,7 +374,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/linon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -385,7 +385,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/armon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -396,7 +396,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/jdon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -407,7 +407,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/muon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -418,7 +418,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/hoodon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -429,7 +429,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/wmton_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -440,7 +440,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/tmon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -451,7 +451,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/shopon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -462,7 +462,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/rddton_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -473,7 +473,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/apoon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -484,7 +484,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/dison_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -495,7 +495,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/pepon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -506,7 +506,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/amdon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -517,7 +517,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/wfcon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -528,7 +528,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/biduon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -539,7 +539,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/orclon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -550,7 +550,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/pgon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -561,7 +561,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/pltron_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -572,7 +572,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/crclon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -583,7 +583,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/spgion_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -594,7 +594,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/cvxon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -605,7 +605,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/tsmon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -616,7 +616,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/panwon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -627,7 +627,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/babaon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -638,7 +638,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/avgoon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -649,7 +649,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/jpmon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -660,7 +660,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/crmon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -671,7 +671,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/amznon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -682,7 +682,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/snowon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -693,7 +693,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/googlon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -704,7 +704,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/axpon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -715,7 +715,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/ibmon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -726,7 +726,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/dashon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -737,7 +737,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/acnon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -748,7 +748,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/ijhon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -759,7 +759,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/coinon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -770,7 +770,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/baon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -781,7 +781,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/geon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -792,7 +792,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/appon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -803,7 +803,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/aaplon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -814,7 +814,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/maon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -825,7 +825,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/lmton_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -836,7 +836,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/intuon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -847,7 +847,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/mcdon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -858,7 +858,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/mstron_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -869,7 +869,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/gson_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -880,7 +880,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/adbeon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -891,7 +891,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/nvdaon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -902,7 +902,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/unhon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -913,7 +913,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/msfton_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -924,7 +924,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/von_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -935,7 +935,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/spoton_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -946,7 +946,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/tslaon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -957,7 +957,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/blkon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -968,7 +968,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/asmlon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -979,7 +979,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/llyon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -990,7 +990,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/nowon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1001,7 +1001,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/metaon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1012,7 +1012,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/iwmon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1023,7 +1023,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/tlton_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1034,7 +1034,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/coston_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1045,7 +1045,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/nflxon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1056,7 +1056,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/ivvon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1067,7 +1067,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/slvon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1078,7 +1078,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/melion_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1089,7 +1089,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/iauon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1100,7 +1100,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/qqqon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1111,7 +1111,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/spyon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1122,7 +1122,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/sbeton_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1133,7 +1133,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/figon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1144,7 +1144,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/iemgon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         },
         {
@@ -1155,7 +1155,7 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/usdon_160x160.png",
             "tags": [
-                "Tokenized by Ondo"
+                "ondo"
             ]
         }
     ]
