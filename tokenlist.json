@@ -2290,6 +2290,17 @@
             "tags": [
                 "ondo"
             ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x1f8955E640Cbd9abc3C3Bb408c9E2E1f5F20DfE6",
+            "name": "Ondo U.S. Dollar Token",
+            "symbol": "USDon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/usdon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
         }
     ]
 }
