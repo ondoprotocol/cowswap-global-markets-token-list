@@ -2,9 +2,9 @@
     "name": "Ondo Tokenized Stocks List",
     "timestamp": "2025-08-26T17:31:39.301513Z",
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
-        "patch": 1
+        "patch": 0
     },
     "logoURI": "https://cdn.ondo.finance/brand/logos/ondo-icon-black_160x160.png",
     "tags": {
